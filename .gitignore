@@ -73,3 +73,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/ToonScapes/Spring Isles/Skybox/Textures/TSI_Skybox_Background_01A.tga
+Assets/ToonScapes/Spring Isles/Skybox/Textures/TSI_Skybox_Midground_01A.tga
